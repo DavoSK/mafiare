@@ -1,6 +1,5 @@
 # Mafia: The City of Lost Heaven Revese Engeneering  
 ## IDA Debuger idb file
-======
 ### Authors
 ======
 | Author's |
