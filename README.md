@@ -13,3 +13,7 @@
 + Its for version of 1.2
 + This file is used for Mafia fanatics and modders 
 + Pozdravuje vás pan Salieri
+
+### License
++ Beer license 
++ If you meet one of us you should buy a beer 
