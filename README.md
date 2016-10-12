@@ -10,7 +10,7 @@
 ### Description
 ======
 + File contains reversed mostly all important game classes and functions of Mafia
-+ Its for version of 1.2
++ Its for version 1.2
 + This file is used for Mafia fanatics and modders 
 + Pozdravuje vás pan Salieri
 
